@@ -88,7 +88,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/f5dc958f-3d2a-4202-9a1f-717c2c3468b9)
 
 # Evaluation Criteria for Block-Level Verification in UVM
-
+EDA Playground project link which includes all the UVM Code
 EDA LInk: https://www.edaplayground.com/x/GSAD 
 
 # Generate GDS using OpenROAD Tool
