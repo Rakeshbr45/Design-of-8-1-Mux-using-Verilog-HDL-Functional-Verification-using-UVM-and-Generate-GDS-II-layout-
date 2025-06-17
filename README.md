@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efed3c54-fb47-43ed-addb-d402147d4800)# Design-of-8-1-Mux-using-Verilog-HDL-Functional-Verification-using-UVM-and-Generate-GDS-II-layout
+# Design-of-8-1-Mux-using-Verilog-HDL-Functional-Verification-using-UVM-and-Generate-GDS-II-layout
 
 A multiplexer (MUX) is a fundamental building block in digital electronics used to select one of 
 many input signals and forward the selected input to a single output line. This functionality makes it 
